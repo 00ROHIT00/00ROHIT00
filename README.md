@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ Hey, I'm Rohith.<br>🗺 I'm from Kerala, India.<br>🏫 I'm currently pursuing my Masters in Computer Application.<br>👀 I'm currently working on a project for my masters.<br>🤞 I'm interested in everything about Full Stack Development.<br>✨Fun Fact: I'm even more interested in Cyber Security!<br><br>
+🙋‍♂️ Hey, I'm Rohith.<br>🗺 I'm from Kerala, India.<br>🏫 I'm currently pursuing my Masters in Computer Application.<br>👀 I'm currently working on a project for my masters.<br>🤞 I'm interested in everything about Cyber Security!.<br>
 
 
 # 💻 Tech Stack:
