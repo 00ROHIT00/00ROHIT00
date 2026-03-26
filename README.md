@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ Hey, I'm Rohith.<br>🗺 I'm from Kerala, India.<br>🏫 I'm currently pursuing my Masters in Computer Application.<br>👀 I'm currently working on a project for my masters.<br>
+🙋‍♂️ Hey, I'm Rohith.<br>🗺 I'm from Kerala, India.<br>🏫 I'm currently pursuing my Masters in Computer Application.<br>👀 I'm currently working on making myself better.<br>
 
 
 # 💻 Tech Stack:
